@@ -1,0 +1,38 @@
+https://docs.google.com/document/d/18j5BRzdw7z8OrqRoOVsJ0X7OcQ07PwNTqcvk0Cwj9-E/edit
+
+1. What is Git
+2. What is Git HUB
+3. is GIT related to GIT HUB
+4. A simple workflow
+
+What is Git:
+
+GIT - VCS	-version control system
+-to track changes in files / folders
+-to collaborate in teams
+-free and open source
+
+
+Centralized VCS | Distributed VCS
+
+check the google doc for centralized version countrol
+check the google doc for Distributed version countrol
+
+
+GIT - DVCS
+______________________________________________________
+What is Git HUB:
+
+GIT HUB - website to upload your repositories online
+	- provides backup
+	- provides visual interface to your repo
+	- makes collaboration easier
+______________________________________________________
+is GIT related to GIT HUB:
+
+
+
+Installed git and understand basic commands like:
+git init, git status, git add ., git commit -m, git remote add origin... , git push -u origin master, 
+
+~/Desktop/git

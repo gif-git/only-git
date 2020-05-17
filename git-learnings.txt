@@ -64,6 +64,10 @@ Step 3 : Signup and create a account on GitHub
 	 https://github.com/
 
 Step 4 : Add your github email and username to git
+  	 git config --global user.email "solomon4usoft@gmail.com"
+	 git config --global user.name "gif-git"
+
+
 
 
 

@@ -4,3 +4,15 @@ git add .
 git commit -m "version 1 from giftson_solomon system"
 git status
 git push
+
+how to change the commit user:
+ 2045  git log 
+ 2046  git config --global user.name "Giftson.Solomon"
+ 2047  git config --global user.email "giftson.s@poweredbu.com"
+ 2048  git config user.email "giftson.s@poweredbu.com"
+ 2049  git config user.name "Giftson.Solomon"
+ 2050  git commit --author="Giftson Solomon <giftson.@poweredbyu.com>"
+ 2051  git commit --amend --author="Giftson Solomon <giftson.s@poweredbyu.com>"
+ 2052  git rebase -i -p 9c6db0a3e2b2aec973070afe6d88b9862540a21e
+ 2053  git rebase --continue
+

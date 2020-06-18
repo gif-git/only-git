@@ -5,10 +5,11 @@ git commit -m "version 1 from giftson_solomon system"
 git status
 git push
 
-how to change the commit user:
+how to change the commit user name, this 2 command is enough:
  2045  git log 
  2046  git config --global user.name "Giftson.Solomon"
  2047  git config --global user.email "giftson.s@poweredbu.com"
+
  2048  git config user.email "giftson.s@poweredbu.com"
  2049  git config user.name "Giftson.Solomon"
  2050  git commit --author="Giftson Solomon <giftson.@poweredbyu.com>"

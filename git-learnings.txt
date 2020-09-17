@@ -1,6 +1,6 @@
 https://docs.google.com/document/d/18j5BRzdw7z8OrqRoOVsJ0X7OcQ07PwNTqcvk0Cwj9-E/edit
 github:
-gif-git/GodwithUs100%
+gif-git
 https://github.com/gif-git/
 git clone remote https://github.com/gif-git/only-git.git
 
